@@ -34,7 +34,7 @@ p {
 /* Sections */
 
 .colored-section {
-  background-color: #0f3460;
+  background-color: black;
   color: #fff;
 }
 
@@ -72,7 +72,7 @@ p {
 /* Title Section */
 
 #title {
-  background-color: #0f3460;
+  background-color: black;
   color: #fff;
   text-align: left;
 }
@@ -105,7 +105,7 @@ p {
 }
 
 .icon {
-  color: #ef8172;
+  color: #ec2327;
   margin-bottom: 1rem;
 }
 
@@ -116,7 +116,7 @@ p {
 /* Testimonial Section */
 
 #testimonials {
-  background-color: #ef8172;
+  background-color: #ec2327;
 }
 
 .testimonial-text {
@@ -132,7 +132,7 @@ p {
 
 
 #press {
-  background-color: #ef8172;
+  background-color: #ec2327;
   padding-bottom: 3%;
 }
 
@@ -154,6 +154,12 @@ p {
 
 .pricing-column {
   padding: 3% 2%;
+  
+}
+
+.card{
+  
+  background-color: #cccccc;
 }
 
 /* CTA Section */
